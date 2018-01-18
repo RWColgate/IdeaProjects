@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="01-08-2018-HelloWorld2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/01_08_2018_HelloWorld2_jar</output-path>
+    <root id="archive" name="01-08-2018-HelloWorld2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="01-08-2018-HelloWorld2" />
+    </root>
+  </artifact>
+</component>
